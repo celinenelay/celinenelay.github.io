@@ -1,6 +1,16 @@
 # Celinene M. Lay
 
-Hello. This site is live.
+## Research Interests
+- Internalizing
+- Stress & Trauma
+- Biological & psychological resilience
+- Phenotyping
+
+## Education
+- UC Berkeley
+
+## Contact
+- celinenelay@berkeley.edu
 
 ## CV
 
