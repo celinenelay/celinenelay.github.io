@@ -1,21 +1,40 @@
 <style>
+body {
+  font-size: 14px;
+  line-height: 1.5;
+}
+
 .container {
   display: flex;
-  gap: 50px;
+  gap: 32px;
   align-items: flex-start;
 }
 
 .left {
-  flex: 0.5;
+  flex: 0.8;          /* narrower left column */
 }
 
 .right {
-  flex: 0.5;
+  flex: 1.2;          /* wider CV column */
+}
+
+h1 {
+  font-size: 22px;
+  margin-bottom: 12px;
+}
+
+h2 {
+  font-size: 16px;
+  margin-top: 18px;
+}
+
+ul {
+  padding-left: 18px;
 }
 
 iframe {
-  width: 150%;
-  height: 800px;
+  width: 100%;
+  height: 900px;      /* taller CV */
   border: none;
 }
 </style>
