@@ -2,9 +2,13 @@
 @import url('https://fonts.googleapis.com/css2?family=Rasa:wght@300;400;500;600;700&display=swap');
 
 body {
-  font-family: 'Rasa', serif;
+  font-family: 'Rasa', serif !important;
   font-size: 14px;
   line-height: 1.5;
+}
+
+h1, h2, h3, p, li {
+  font-family: 'Rasa', serif !important;
 }
 
 .container {
