@@ -1,5 +1,8 @@
 <style>
+@import url('https://fonts.googleapis.com/css2?family=Rasa:wght@300;400;500;600;700&display=swap');
+
 body {
+  font-family: 'Rasa', serif;
   font-size: 14px;
   line-height: 1.5;
 }
@@ -11,11 +14,11 @@ body {
 }
 
 .left {
-  flex: 0.5;
+  flex: 1;
 }
 
 .right {
-  flex: 1.5;
+  flex: 1;
 }
 
 h1 {
@@ -34,7 +37,7 @@ ul {
 
 iframe {
   width: 100%;
-  height: 800px;
+  height: 300px;
   border: none;
 }
 </style>
