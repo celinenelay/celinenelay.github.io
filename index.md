@@ -61,11 +61,5 @@ iframe {
 
 <div class="section">
   <h2>Peer-Reviewed Publications</h2>
-  <iframe src="https://www.notion.so/celinemylx/Publications-and-Manuscripts-2e73741334fa8077beeef337e45117d0?source=copy_link"></iframe>
+  <iframe src="https://celinenelay.notion.site/Publications-and-Manuscripts-2e73741334fa8077beeef337e45117d0?source=copy_link"></iframe>
 </div>
-
-<div class="section">
-  <h2>Posters & Presentations</h2>
-  <iframe src="https://docs.google.com/document/d/e/2PACX-1vQnwzlrS0-Z5805PfGtdcf0l_gggoC_zgdqSocmJMEbzJWHhurrz54-ygrKDzEJGxvhlPXUmpPT3bpE/pub"></iframe>
-</div>
-
