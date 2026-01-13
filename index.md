@@ -1,7 +1,7 @@
 <style>
 .container {
   display: flex;
-  gap: 40px;
+  gap: 20px;
   align-items: flex-start;
 }
 
@@ -14,7 +14,7 @@
 }
 
 iframe {
-  width: 100%;
+  width: 150%;
   height: 800px;
   border: none;
 }
