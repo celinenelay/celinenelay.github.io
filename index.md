@@ -11,11 +11,11 @@ body {
 }
 
 .left {
-  flex: 0.8;          /* narrower left column */
+  flex: 0.5;
 }
 
 .right {
-  flex: 1.2;          /* wider CV column */
+  flex: 1.5;
 }
 
 h1 {
@@ -34,7 +34,7 @@ ul {
 
 iframe {
   width: 100%;
-  height: 900px;      /* taller CV */
+  height: 800px;
   border: none;
 }
 </style>
@@ -61,7 +61,10 @@ iframe {
   </div>
 
   <div class="right">
-    <h2>CV</h2>
+    <h2>Peer-Reviewed Publications</h2>
     <iframe src="https://docs.google.com/document/d/e/2PACX-1vToMBD3OLjINTSHdu2wQPFCuX0ndF1vLROlPh56sbJMQ-d4mBuMiJLV_bDm5mvZSgewsX3wT_3M6QAu/pub"></iframe>
+
+    <h2 style="margin-top: 24px;">Posters & Presentations</h2>
+    <iframe src="https://docs.google.com/document/d/e/2PACX-1vQnwzlrS0-Z5805PfGtdcf0l_gggoC_zgdqSocmJMEbzJWHhurrz54-ygrKDzEJGxvhlPXUmpPT3bpE/pub"></iframe>
   </div>
 </div>
