@@ -61,7 +61,7 @@ iframe {
 
 <div class="section">
   <h2>Peer-Reviewed Publications</h2>
-  <iframe src="https://docs.google.com/document/d/e/2PACX-1vToMBD3OLjINTSHdu2wQPFCuX0ndF1vLROlPh56sbJMQ-d4mBuMiJLV_bDm5mvZSgewsX3wT_3M6QAu/pub"></iframe>
+  <iframe src="https://www.notion.so/celinemylx/Publications-and-Manuscripts-2e73741334fa8077beeef337e45117d0?source=copy_link"></iframe>
 </div>
 
 <div class="section">
