@@ -1,16 +1,16 @@
 <style>
 .container {
   display: flex;
-  gap: 20px;
+  gap: 50px;
   align-items: flex-start;
 }
 
 .left {
-  flex: 1;
+  flex: 0.5;
 }
 
 .right {
-  flex: 1;
+  flex: 0.5;
 }
 
 iframe {
