@@ -32,14 +32,17 @@ ul {
 
 iframe {
   width: 100%;
-  height: 500px;
+  height: 800px;
   border: none;
   margin-top: 12px;
 }
 </style>
 
 <div class="section">
-  <h1>Celinene M. Lay</h1>
+  <h1>Celinene M. Lay (she/her)</h1>
+  <p>Yale Stress Center, Psychiatry Department, Yale School of Medicine</p>
+  <p>Email: celinenelay@berkeley.edu</p>
+  <p>osf.io/z9s2k | ResearchGate | ORCID: 0000-0002-0622-6292 | NOF-9730-2025 | NPI#1417535089</p>
 
   <h2>Research Interests</h2>
   <ul>
@@ -51,13 +54,13 @@ iframe {
   </ul>
 
   <h2>Education</h2>
-  <ul>
-    <li>University of California, Berkeley</li>
+	<h3>University of California, Berkeley</h3>
+	<ul>
+		<li>Psychology BA with Honors | Minor: Early Development & Learning Science</li>
+  	<li>Cumulative GPA: 3.78/4.00; Major GPA: 4.00/4.00</li>
+		<li>Psychology Coursework: 23 upper-division & one graduate course</li>
+  	<li>Thesis: Neuroticism, Emotion Regulation and Personalized CBT Treatment Outcomes (Advisor: Aaron Fisher, PhD)</li>	
   </ul>
-
-  <h2>Contact</h2>
-  <p>celinenelay@berkeley.edu</p>
-</div>
 
 <div class="section">
   <h2>Peer-Reviewed Publications</h2>
