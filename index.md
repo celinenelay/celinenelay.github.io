@@ -66,10 +66,3 @@ iframe {
   <h2>Peer-Reviewed Publications</h2>
   <iframe src="https://celinenelay.notion.site/ebd//2e73741334fa8077beeef337e45117d0" width="200%" height="800" frameborder="0" allowfullscreen />
 </div>
-
-
-
-
-
-
-      
