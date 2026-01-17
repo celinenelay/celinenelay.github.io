@@ -51,8 +51,8 @@ iframe {
   <p>Yale Stress Center, Psychiatry Department, Yale School of Medicine</p>
   <p>Email: celinenelay@berkeley.edu</p>
 <p>
-  <a href="https://osf.io/z9s2k" target="_blank" rel="noopener">osf.io/z9s2k</a> |
-  <a href="https://www.researchgate.net/" target="_blank" rel="noopener">ResearchGate</a> |
+  <a href="https://osf.io/z9s2k" target="_blank" rel="noopener">OSF</a> |
+  <a href="https://www.researchgate.net/profile/Celinene-Lay" target="_blank" rel="noopener">ResearchGate</a> |
   <a href="https://scholar.google.com/citations?user=1yljXZsAAAAJ&hl=en" target="_blank" rel="noopener">
     Google Scholar
   </a>
