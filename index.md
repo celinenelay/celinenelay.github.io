@@ -50,11 +50,19 @@ iframe {
   <img src="assets/profile.jpg" alt="Celinene M. Lay" class="profile-photo">
   <p>Yale Stress Center, Psychiatry Department, Yale School of Medicine</p>
   <p>Email: celinenelay@berkeley.edu</p>
-  <p>osf.io/z9s2k | ResearchGate | ORCID: 0000-0002-0622-6292 | NOF-9730-2025 | NPI#1417535089</p>
+<p>
+  <a href="https://osf.io/z9s2k" target="_blank" rel="noopener">osf.io/z9s2k</a> |
+  <a href="https://www.researchgate.net/" target="_blank" rel="noopener">ResearchGate</a> |
+  <a href="https://scholar.google.com/citations?user=1yljXZsAAAAJ&hl=en" target="_blank" rel="noopener">
+    Google Scholar
+  </a>
+</p>
+
 
   <h2>Research Interests</h2>
   <ul>
     <li>Internalizing psychopathology</li>
+	<li>Stress-related disorders</li>
     <li>Stress & trauma</li>
     <li>Biological and psychological resilience</li>
     <li>Precision phenotyping</li>
