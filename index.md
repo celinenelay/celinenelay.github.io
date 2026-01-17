@@ -36,10 +36,18 @@ iframe {
   border: none;
   margin-top: 12px;
 }
+
+.profile-photo {
+  width: 140px;
+  border-radius: 6px;
+  margin-bottom: 12px;
+}
+
 </style>
 
 <div class="section">
   <h1>Celinene M. Lay (she/her)</h1>
+  <img src="assets/profile.jpg" alt="Celinene M. Lay" class="profile-photo">
   <p>Yale Stress Center, Psychiatry Department, Yale School of Medicine</p>
   <p>Email: celinenelay@berkeley.edu</p>
   <p>osf.io/z9s2k | ResearchGate | ORCID: 0000-0002-0622-6292 | NOF-9730-2025 | NPI#1417535089</p>
